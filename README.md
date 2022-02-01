@@ -27,7 +27,8 @@ Skills: JAVASCRIPT / REACT JS  / HTML / CSS / MATERIAL-UI / BOOTSTRAP / TAILWIND
 <!-- Language and tools -->
 <h3 align="left">Connect with me:</h3>
 <h4><b>Email:<b/> istiakmahmud1010@gmail.com <h4/>
-  
+<h4><b>Whats App:<b/> +880 1710-335722 <h4/>
+ 
 <p align="left">
 <a href="https://twitter.com/alnooristiakmah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alnooristiakmah" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/al-noor-istiak-mahmud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="al-noor-istiak-mahmud" height="30" width="40" /></a>
