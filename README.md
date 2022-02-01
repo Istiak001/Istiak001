@@ -1,5 +1,10 @@
 ### Hi there 👋, My name is Al Noor Istiak Mahmud.
 #### I am Javascript & React Js Developer.
+
+![GitHub metrics](https://metrics.lecoq.io/istiak001) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=istiak001)](https://github.com/anuraghazra/github-readme-stats)
+
 ![I am Javascript & React Js Developer.](https://media-exp1.licdn.com/dms/image/C5616AQEniwpRSkmlkw/profile-displaybackgroundimage-shrink_200_800/0/1643725139772?e=1649289600&v=beta&t=_Vw9ezyCYxSrujF2kSavT-kAOzxwpwCHA95zem0qoq8)
 
 I'm Javascript & React Js Developer. 
@@ -21,26 +26,28 @@ Skills: JAVASCRIPT / REACT JS  / HTML / CSS / MATERIAL-UI / BOOTSTRAP / TAILWIND
 <br/>
 <h3 align="left">Connect with me:</h3>
 <h4><b>Email:<b/> istiakmahmud1010@gmail.com <h4/>
+  
 <p align="left">
 <a href="https://twitter.com/alnooristiakmah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alnooristiakmah" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/al-noor-istiak-mahmud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="al-noor-istiak-mahmud" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/alnooristiakmahmud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/alnooristiakmahmud" height="30" width="40" /></a>
 <a href="https://instagram.com/alnooristiak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alnooristiak" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/cfPFtqxk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/cfPFtqxk" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/N6RUD3qMPd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/cfPFtqxk" height="30" width="40" /></a>
 </p>
 <br/>
-
+  
+<!-- Daily Dev Section -->
+ <a href="https://app.daily.dev/istiak0202"><img src="https://api.daily.dev/devcards/b634b38c007848249978503e0aed3950.png?r=q8p" width="400" alt="Al Noor Istiak Mahmud's Dev Card"/></a> 
+  
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=istiak001)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=istiak001)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=istiak001&show_icons=true&count_private=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=istiak001)  
-
-![GitHub metrics](https://metrics.lecoq.io/istiak001)  
+ 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=istiak001)  
 
