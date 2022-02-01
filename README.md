@@ -10,11 +10,11 @@ My core skill is based on Javascript, and I love to do most of the things with J
 
 I'm currently studying Computer Science at National Polytechnic College, at Chattogram, Bangladesh.
 
-Skills: JAVASCRIPT / REACT JS  / HTML / CSS / MATERIAL-UI / BOOTSTRAP / TAILWIND CSS
-
 - 🔭 I’m currently working on Student. 
 - 🌱 I’m currently learning Javascript, React Js, MERN Stack. 
-- 📫 How to reach me: istiakmahmud1010@gmail.com & Social Media. 
+- 📫 How to reach me: istiakmahmud1010@gmail.com & Social Media.
+
+Skills: JAVASCRIPT / REACT JS  / HTML / CSS / MATERIAL-UI / BOOTSTRAP / TAILWIND CSS 
 
 <!-- Most Uses Language section -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=istiak001)](https://github.com/anuraghazra/github-readme-stats)
