@@ -24,7 +24,7 @@ Skills: JAVASCRIPT / REACT JS  / HTML / CSS / MATERIAL-UI / BOOTSTRAP / TAILWIND
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=istiak001&show_icons=true&count_private=true)  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=istiak001&show_icons=true&theme=radical)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=istiak001)  
 
